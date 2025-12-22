@@ -79,4 +79,5 @@ object PreferencesKeys {
   val PREF_IS_TEST = booleanPreferencesKey(KiwixDataStore.PREF_IS_TEST)
   val SELECTED_ONLINE_CONTENT_CATEGORY =
     stringPreferencesKey(KiwixDataStore.SELECTED_ONLINE_CONTENT_CATEGORY)
+  val CACHED_ONLINE_CATEGORIES = stringPreferencesKey(KiwixDataStore.CACHED_ONLINE_CATEGORIES)
 }
